@@ -16,14 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CVHV.pdf", title: "HV"}
+  - {file: "CVHV.pdf", title: "CV"}
   - {url: "https://clarklab.yale.edu/", title: "Clark Lab"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:harsh.vashistha@yale.edu"}
   - {title: Github, icon: github, url: "https://harshvashishtha.github.io"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: X(twitter), icon: twitter, url: "https://twitter.com/harshvashishtha"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
