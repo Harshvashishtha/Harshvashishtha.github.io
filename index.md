@@ -12,6 +12,6 @@ title: ""
         </p>
        
     </div>
-</div>
+
  Contact Information
  - { mail to: "harsh.vashistha@yale.edu" }
