@@ -2,10 +2,7 @@
 layout: page
 title: ""
 ---
-
-   
-          Here's a little bit about me.
-       
+I am postdoctoral researcher in neuroscience in [Clark Lab](https://clarklab.yale.edu/) at [Yale University](https://www.yale.edu/)       
 
  Contact Information
  - { Email: "harsh.vashistha@yale.edu" }
