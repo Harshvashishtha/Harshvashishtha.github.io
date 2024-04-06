@@ -1,29 +1,12 @@
-# Research
-
 ## Integration of multiple visual cues 
+Inference tasks 
 
-### Description:
-[Provide a brief description of your research topic here.]
-
-### Subtopics:
-- [Subtopic 1]
-- [Subtopic 2]
-- [Subtopic 3]
-
-## Topic 2: [Title of Topic 2]
-
-### Description:
-[Provide a brief description of your research topic here.]
-
-### Subtopics:
-- [Subtopic 1]
-- [Subtopic 2]
-- [Subtopic 3]
+## Odormotion dtection by fruitflies
+Flies can detect motion signal in odor plumes
 
 ### References:
-- [Reference 1]
-- [Reference 2]
-- [Reference 3]
+- [[Reference 1]](https://www.nature.com/articles/s41586-022-05423-4)
+
 
 ---
 
