@@ -16,7 +16,7 @@ Flies can detect motion signal in odor plumes
 ## Cell size regulation in bacterium Ecoli
 
 ### References:
-- [[Individuality and slow dynamics in bacterial growth homeostasis]]((https://www.pnas.org/doi/abs/10.1073/pnas.1615526115)
+- [[Individuality and slow dynamics in bacterial growth homeostasis]](https://www.nature.com/articles/s41586-022-05423-4)
 - [Reference 2]
 - [Reference 3]
 
