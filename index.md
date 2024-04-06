@@ -1,7 +1,7 @@
 ```markdown
 # About Me
 
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](picture.jpeg)
 
 ## Introduction
 
