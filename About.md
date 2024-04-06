@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About"
+title: "Research"
 ---
 
 {% if site.show_excerpts %}
