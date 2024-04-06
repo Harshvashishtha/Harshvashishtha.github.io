@@ -1,8 +1,9 @@
 ---
 layout: page
+title: ""
 ---
 
-# About Me
+
 <div style="text-align:center;">
     <img src="Picture.jpeg" alt="Profile Picture" style="width:180px;height:200px;margin-bottom:20px;">
 </div>
