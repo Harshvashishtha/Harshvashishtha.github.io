@@ -4,7 +4,7 @@ title: ""
 ---
 <div style="display:flex; align-items:center;">
     <div style="flex:1;">
-        <img src="Picture.jpg" alt="Profile Picture" style="width:180px;height:200px;">
+        <img src="Picture.jpeg" alt="Profile Picture" style="width:180px;height:200px;">
     </div>
     <div style="flex:2;">
         <p>
