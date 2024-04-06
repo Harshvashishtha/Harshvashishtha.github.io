@@ -12,9 +12,8 @@ title: ""
         </p>
         <h2>Contact Information</h2>
         <ul>
-            <li><strong>Email:</strong> [Your Email Address]</li>
-            <li><strong>LinkedIn:</strong> [Your LinkedIn Profile URL]</li>
-            <li><strong>Website/Blog:</strong> [Your Website or Blog URL]</li>
+            <li><strong>Email:</strong> [harsh.vashistha@yale.edu]</li>
+            <li><strong>Website/Blog:</strong> [[Google Scholar](https://scholar.google.com/citations?user=YdsptUYAAAAJ&hl=en.)]</li>
         </ul>
     </div>
 </div>
