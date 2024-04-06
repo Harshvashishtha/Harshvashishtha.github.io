@@ -11,9 +11,6 @@ title: ""
           Here's a little bit about me.
         </p>
         <h2>Contact Information</h2>
-        <ul>
-            <li><strong>Email:</strong> [harsh.vashistha@yale.edu]</li>
-            <li><strong>Website/Blog:</strong> [Scholar](https://scholar.google.com/citations?user=YdsptUYAAAAJ&hl=en)</li>
-        </ul>
+        {mail to: "harsh.vashistha@yale.edu"}
     </div>
 </div>
