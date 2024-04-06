@@ -1,7 +1,7 @@
 ---
 # About Me
 
-<img src="Picture.jpeg" alt="Profile Picture" width="200" height="200">
+<img src="Picture.jpeg" alt="Profile Picture" width="150" height="200">
 
 
 ## Introduction
