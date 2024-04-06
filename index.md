@@ -10,7 +10,8 @@ title: ""
         <p>
           Here's a little bit about me.
         </p>
-        <h2>Contact Information</h2>
-        {mail to: "harsh.vashistha@yale.edu"}
+       
     </div>
 </div>
+ Contact Information
+ - { mail to: "harsh.vashistha@yale.edu" }
