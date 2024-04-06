@@ -1,6 +1,18 @@
----
-layout: page
-title: ""
----
+```markdown
+# About Me
 
-I am postdoctoral researcher in neuroscience at [Clark Lab](https://clarklab.yale.edu/) at Yale University.
+![Profile Picture](profile_picture.jpg)
+
+## Introduction
+
+## Background
+
+## Interests
+
+
+## Contact Information
+
+- **Email:** [harsh.vashistha@yale.edu]
+Feel free to reach out to me if you have any questions or would like to connect!
+
+```
