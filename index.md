@@ -1,4 +1,4 @@
----
+ail---
 layout: page
 title: ""
 ---
@@ -14,4 +14,4 @@ title: ""
     </div>
 
  Contact Information
- - { mail to: "harsh.vashistha@yale.edu" }
+ - { Email: "harsh.vashistha@yale.edu" }
