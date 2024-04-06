@@ -3,8 +3,9 @@ layout: page
 ---
 
 # About Me
-
-
+<div style="text-align:center;">
+    <img src="Picture.jpg" alt="Profile Picture" style="width:180px;height:200px;margin-bottom:20px;">
+</div>
 ## Introduction
 
 ## Background
