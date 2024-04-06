@@ -1,7 +1,8 @@
 ---
 # About Me
 
-![Profile Picture](picture.jpeg)
+<img src="Picture.jpeg" alt="Profile Picture" width="200" height="200">
+
 
 ## Introduction
 
