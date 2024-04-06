@@ -1,5 +1,6 @@
 ---
 layout: page
+title:""
 ---
 ## Integration of multiple visual cues 
 Inference tasks 
