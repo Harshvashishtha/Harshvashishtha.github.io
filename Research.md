@@ -17,7 +17,8 @@ Flies can detect motion signal in odor plumes
 
 ### References:
 - [[Individuality and slow dynamics in bacterial growth homeostasis]](https://www.nature.com/articles/s41586-022-05423-4)
-- [Reference 2]
-- [Reference 3]
+- [[Individuality and slow dynamics in bacterial growth homeostasis]](https://www.nature.com/articles/s41586-022-05423-4)
+- [[Individuality and slow dynamics in bacterial growth homeostasis]](https://www.nature.com/articles/s41586-022-05423-4)
+
 
 ## Non genetic inheritence restrain the cellualar variability
