@@ -1,8 +1,5 @@
 ---
 # About Me
-<div style="text-align:left;">
-    <img src="Picture.jpeg" alt="Profile Picture" style="width:180px;height:200px;margin-bottom:20px;">
-</div>
 
 
 ## Introduction
