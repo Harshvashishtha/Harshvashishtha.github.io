@@ -25,9 +25,3 @@ Flies can detect motion signal in odor plumes
 - [Reference 3]
 
 ## Non genetic inheritence restrain the cellualar variability
-
-
-
-
-  
-```
