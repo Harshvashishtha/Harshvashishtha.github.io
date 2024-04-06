@@ -50,5 +50,3 @@
 - [Reference 3]
 
 ```
-
-You can continue this structure for as many research topics as you have. This Markdown file can be saved with a `.md` extension, for example, `research_topics.md`, and then you can push it to your GitHub repository. Each section provides space for you to describe your topic, list subtopics within that topic, and include references for further reading.
