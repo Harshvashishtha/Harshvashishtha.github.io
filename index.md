@@ -4,7 +4,7 @@ title: ""
 ---
 ## About me
 <div style="overflow:auto;">
-<img src="Picture.jpeg" alt="Alt text" style="float:left; margin-right:10px;width:190px; height:220px;"/>   
+<img src="Picture.jpeg" alt="Alt text" style="float:left;margin-top:20px; margin-right:10px;width:190px; height:220px;"/>   
   
   <p style="margin-left:220px;"> I am a postdoctoral associate in neuroscience in [Clark Lab](https://clarklab.yale.edu/) at [Yale University](https://www.yale.edu/). I am interested in sensory neuroscience and currently working to understand how the visual information is processed inside the brain. I use fruit fly as a model organism to understand how neural circuitry works to interpret complex visual patterns in the natural world. I use psychophysical experiments and live 2-photon imaging to find answers to these problems. 
 
