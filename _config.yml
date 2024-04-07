@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:    # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "Research"}
+  - { file: "Publications.md", title: "Publications"}
   - {file: "CV.md", title: "CV"}
   - {url: "https://clarklab.yale.edu/", title: "Clark Lab"}
   
