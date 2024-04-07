@@ -14,7 +14,7 @@ Odor-direction sensing is a fascinating aspect of sensory biology, where organis
 # Past projects
 
 ## Cell size regulation in bacterium _E. Coli_
-Cell size regulation is a fundamental aspect of cell biology, essential for maintaining cellular homeostasis and ensuring proper growth and division. While the precise mechanisms governing this regulation are complex and multifaceted, they involve a delicate balance of cellular processes. Various factors, including nutrient availability, environmental conditions, and genetic factors, influence cell size. E. coli cells employ sophisticated molecular machinery to monitor their size and coordinate growth and division accordingly. Understanding these regulatory mechanisms provides valuable insights into the basic principles of cell biology and has implications for various fields, including microbiology, biotechnology, and medicine.
+Cell size regulation is a fundamental aspect of cell biology, essential for maintaining cellular homeostasis and ensuring proper growth and division. Various factors, including nutrient availability, environmental conditions, and genetic factors, can influence cell size. E. coli cells employ sophisticated molecular machinery to monitor their size and coordinate growth and division accordingly. In this project we developed a phenomenological model of cell size homeostasis and then experimentally altered molecular entitites involved in cell size monitering to evaluate their affect on cell size.
 
 - [Vashistha et al](https://www.nature.com/articles/s41467-023-41487-0), [Kohram et al](https://www.cell.com/current-biology/pdf/S0960-9822(20)31776-0.pdf), [Susman et al](https://www.pnas.org/doi/abs/10.1073/pnas.1615526115)
 
