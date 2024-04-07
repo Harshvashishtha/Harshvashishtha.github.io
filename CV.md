@@ -1,7 +1,7 @@
 ---
 layout: page
+title: "HARSH VASHISTHA"
 ---
-## HARSH VASHISTHA
 
 Postdoctoral associate in Neuroscience 
 
