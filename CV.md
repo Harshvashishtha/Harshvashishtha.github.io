@@ -2,9 +2,10 @@
 layout: page
 Title: ""
 ---
+
 # Harsh Vashistha
 
-[Email](mailto:harsh.vashistha@yale.edu) 
+[Email](mailto:harsh.vashistha@yale.edu)
 
 ## Current position
 Postdoctoral associate in Neuroscience Sep 2021-present
@@ -16,18 +17,27 @@ PI: Dr. Damon Clark
 ## Education
 
 ### University of Pittsburgh, Pittsburgh, PA, USA  
- Ph.D. in Physics Aug 2021
- M.S. in Physics Dec 2018
-Dissertation: The roles of intergeneration inheritance and intrageneration molecular dynamics in shaping living cells.
-Advisor: Dr. Hanna Salman 
+- Ph.D. in Physics Aug 2021
+- M.S. in Physics Dec 2018
+  Dissertation: The roles of intergeneration inheritance and intrageneration molecular dynamics in shaping living cells.
+  Advisor: Dr. Hanna Salman
 
-Indian Institute of Science Education and Research Bhopal (IISERB), M.P, India 
-B.S.- M.S.(integrated)} in Physics June 2015
-Dissertation: Induction of ferromagnetic ordering in paramagnetic CaRuO3 by intrinsic tensile strain.
-Advisor: Dr. D. S. Rana 
+### Indian Institute of Science Education and Research Bhopal (IISERB), M.P, India 
+- B.S.- M.S.(integrated) in Physics June 2015
+  Dissertation: Induction of ferromagnetic ordering in paramagnetic CaRuO3 by intrinsic tensile strain.
+  Advisor: Dr. D. S. Rana
 
-Marine Biological Laboratory, Woods Hole, MA, USA 
-Methods in Computational Neuroscience summer course Summer 2022
+### Marine Biological Laboratory, Woods Hole, MA, USA 
+- Methods in Computational Neuroscience summer course Summer 2022
 
 ## Publications
-
+- B. Knapp, L. Willis, C. Gonzalez, {H. Vashistha}, J. J. Touma, M. Tikhonov, J. Ram, H. Salman, J. E. Elias, K. C. Huang, Metabolomic rearrangement controls the intrinsic microbial response to temperature changes, *Nature microbiology* (2024).
+- M. Kohram, A. Sanderson , A. Loui , P. V Thompson, **H. Vashistha**, A. Shomar, Z. N. Oltvai and H. Salman, Non-lethal deleterious mutation-induced allostasis accelerates bacterial aging, ***PNAS*** (2024).
+- **H. Vashistha**, J. Jammal and H. Salman,  Bacterial cell-size changes resulting from altering the relative expression of Min proteins, ***Nature communications*** (2023).
+- M. ElGamel, **H. Vashistha**, H. Salman and A. Mugler, Multigenerational memory in cell size homeostasis, ***Phys. Rev. E*** (2023).
+- **H. Vashistha** and D. A. Clark, Feature maps: How the insect visual system organizes information, ***Current Biology*** (2022).
+- **H. Vashistha**, M. Kohram and H. Salman, Non-genetic inheritance restraint of cell to cell variation, ***eLife*** (2021).
+- A. Stawsky, **H. Vashistha**, JT Nechleba, H. Salman and N. Brenner, Multiple timescales in bacterial growth homeostasis, ***iScience*** (2021).
+- M. Kohram, **H. Vashistha**, S. Leibler, B. Xue and H. Salman, Bacterial growth control mechanisms inferred from multivariate statistical analysis of single-cell measurements, ***Current biology*** (2021).
+- S. Rashid, Z. Long, S. Singh, M. Kohram, **H. Vashistha**, S. Navlakha, H. Salman, Z. N. Oltvai, and Z.B. Joseph, Adjustment in tumbling rates improves bacterial chemotaxis on obstacle-laden terrains, ***PNAS*** (2019).
+- L. Susman, M. Kohram, **H. Vashistha**, J. T. Nechleba, H. Salman, and N. Brenner, Individuality and slow dynamics in bacterial growth homeostasis, ***PNAS*** (2018).
