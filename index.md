@@ -9,15 +9,9 @@ title: ""
   <p style="margin-left:220px;"> Prior to my current position, I completed my Ph.D. in physics at the University of Pittsburgh. During my doctoral studies, I explored the growth dynamics of bacteriumE. Coli and developed a specialized microfluidic device to study the inheritance patterns of physical cellular traits, such as cell size, across multiple generations of bacteria.
 </p>
 <p style="margin-left:220px;"> Outside of my academic pursuits, I enjoy playing cricket, reading about archaeological discoveries and attending live music concerts. 
-
-  Thank you for visiting my website. Please feel free to explore my work and reach out via email if you'd like to connect or discuss further.
-</p>
-</div>
-
-
-
-
+<p>Thank you for visiting my website. Please feel free to explore my work and reach out via email if you'd like to connect or discuss further.</p>
 
 
 ## Contact Information
 Email: harsh.vashistha@yale.edu 
+</div>
