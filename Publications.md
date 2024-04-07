@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-1. B. Knapp, L. Willis, C. Gonzalez, **H. Vashistha**, J. J. Touma, M. Tikhonov, J. Ram, H. Salman, J. E. Elias, K. C. Huang, Metabolomic rearrangement controls the intrinsic microbial response to temperature changes,  ***Nature microbiology (2024)***
+1. B. Knapp, L. Willis, C. Gonzalez, **H. Vashistha**, J. J. Touma, M. Tikhonov, J. Ram, H. Salman, J. E. Elias, K. C. Huang, Metabolomic rearrangement controls the intrinsic microbial response to temperature changes,  [***Nature microbiology (2024)***](https://www.biorxiv.org/content/10.1101/2023.07.22.550177v2)
 2. M. Kohram, A. Sanderson , A. Loui , P. V Thompson, **H. Vashistha**, A. Shomar, Z. N. Oltvai and H. Salman, Non-lethal deleterious mutation-induced allostasis accelerates bacterial aging,  ***PNAS (2024)***
 3. **H. Vashistha**, J. Jammal and H. Salman,  Bacterial cell-size changes resulting from altering the relative expression of Min proteins,  ***Nature communications (2023)***.
 4. M. ElGamel, **H. Vashistha**, H. Salman and A. Mugler, Multigenerational memory in cell size homeostasis,  ***Phys. Rev. E (2023)***.
