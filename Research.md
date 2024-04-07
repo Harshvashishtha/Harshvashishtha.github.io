@@ -4,7 +4,7 @@ title: ""
 ---
 # Current projects
 ## Multiple cue integration in visual perception
-To determine the 3-D structure of the world from the 2-D images on our retinas, our brains make inferences. In natural settings, visual cues are usually noisy, and a single cue is usually not enough for animals to make a reliable decision. In such cases, brains tend to integrate evidence from multiple cues to make an inference.  My research aims to understand how and where multiple visual cues related to a single event are integrated to generate a coherent visual perception.  
+To determine the 3-D structure of the world from the 2-D images on our retinas, our brains make inferences. In natural settings, visual cues are usually noisy, and a single cue is usually not enough for animals to make a reliable decision. In such cases, brains tend to integrate evidence from multiple cues to make an inference.  My research aims to understand how and where multiple visual cues related to a single visual event are integrated to generate a coherent visual perception.  
 
 ## Motion computation in olfaction
 Flies can detect motion signal in odor plumes
