@@ -19,7 +19,7 @@ navigation:    # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "Research"}
   - { file: "Publications.md", title: "Publications"}
   - {file: "CV.md", title: "CV"}
-  - {url: "https://clarklab.yale.edu/", title: "Clark Lab"}
+  - {file: "Contact", title: "Contact"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
