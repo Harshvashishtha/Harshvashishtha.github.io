@@ -1,5 +1,6 @@
-# Contact Information
-
+---
+layout: page
+title: "Contact Information"
 ---
 
 **Name:** Harsh Vashistha
