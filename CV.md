@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-**HARSH VASHISTHA**
+## HARSH VASHISTHA
 
 Postdoctoral associate in Neuroscience 
 
@@ -39,7 +39,7 @@ PI: Dr. Damon Clark
 9. S. Rashid, Z. Long, S. Singh, M. Kohram, **H. Vashistha**, S. Navlakha, H. Salman, Z. N. Oltvai, and Z.B. Joseph, Adjustment in tumbling rates improves bacterial chemotaxis on obstacle-laden terrains,  ***PNAS (2019)***.
 10. L. Susman, M. Kohram, **H. Vashistha**, J. T. Nechleba, H. Salman, and N. Brenner, Individuality and slow dynamics in bacterial growth homeostasis,  ***PNAS (2018)***.
 
-## Awards and Honors
+# Awards and Honors
 
 - Degree completion fellowship, University of Pittsburgh, PA, USA, 2021.
 - Andrew W. Mellon predoctoral fellowship, University of Pittsburgh, PA, USA, 2020.
