@@ -13,4 +13,4 @@ title: " ABOUT ME"
 
 Contact Information
 Email: harsh.vashistha@yale.edu 
-</div>
+
