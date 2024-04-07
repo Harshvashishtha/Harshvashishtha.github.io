@@ -5,8 +5,6 @@ Title: ""
 
 ## Harsh Vashistha
 
-[Email](mailto:harsh.vashistha@yale.edu)
-
 Postdoctoral associate in Neuroscience 
 
 Department of MCDB, Yale University, New Haven, CT, USA
