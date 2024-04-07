@@ -3,7 +3,7 @@ layout: page
 title: "ABOUT ME"
 ---
 
-<div style="font-size: 20px;">
+<div style="font-size: 16px;">
     <div style="overflow:auto;">
         <img src="Picture.jpeg" alt="Alt text" style="float:left; margin:  20px 20px 20px 0px; width:190px; height:220px;"/>
         <p >I am a postdoctoral associate in neuroscience in <a href="https://clarklab.yale.edu/">Clark Lab</a> at Yale University. My research focuses on understanding how neural circuitry works to interpret complex visual patterns in the natural world. I use fruit fly as a model organism and perform psychophysical experiments combined with live 2-photon imaging to find answers to these problems.</p>
