@@ -38,3 +38,13 @@ PI: Dr. Damon Clark
 8. M. Kohram, **H. Vashistha**, S. Leibler, B. Xue and H. Salman, Bacterial growth control mechanisms inferred from multivariate statistical analysis of single-cell measurements,  ***Current biology (2021)***.
 9. S. Rashid, Z. Long, S. Singh, M. Kohram, **H. Vashistha**, S. Navlakha, H. Salman, Z. N. Oltvai, and Z.B. Joseph, Adjustment in tumbling rates improves bacterial chemotaxis on obstacle-laden terrains,  ***PNAS (2019)***.
 10. L. Susman, M. Kohram, **H. Vashistha**, J. T. Nechleba, H. Salman, and N. Brenner, Individuality and slow dynamics in bacterial growth homeostasis,  ***PNAS (2018)***.
+
+## Awards and Honors
+
+- Degree completion fellowship, University of Pittsburgh, PA, USA, 2021.
+- Andrew W. Mellon predoctoral fellowship, University of Pittsburgh, PA, USA, 2020.
+- Three Minute Thesis (3MT) competition, Department of Physics and Astronomy, University of Pittsburgh, PA, USA, 2019.
+- International Summer school on Theoretical Biophysics research fellowship and travel grant, Cargese, France, 2017.
+- IASC-INSA-NASI research fellowship, Indian Academy of Sciences, 2013.
+- Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship, D.S.T., Government of India, 2010.
+- Qualified IIT-JEE, India, 2010.
