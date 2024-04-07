@@ -14,4 +14,3 @@ title: ""
 
 ## Contact Information
 Email: harsh.vashistha@yale.edu 
-</div>
