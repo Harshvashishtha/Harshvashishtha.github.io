@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: " ABOUT ME"
 ---
 ## About me
 <div style="overflow:auto;">
@@ -10,7 +10,8 @@ title: ""
 </p>
 <p> Outside of my academic pursuits, I enjoy playing cricket, reading about archaeological discoveries and attending live music concerts. </p>
 <p>Thank you for visiting my website. Please feel free to explore my work and reach out via email if you'd like to connect or discuss further.</p>
-</div>
+
 
 Contact Information
 Email: harsh.vashistha@yale.edu 
+</div>
