@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-## HARSH VASHISTHA
+HARSH VASHISTHA
 Postdoctoral associate in Neuroscience 
 
 Department of MCDB, Yale University, New Haven, CT, USA
