@@ -7,7 +7,6 @@ Postdoctoral associate in Neuroscience
 
 Department of MCDB, Yale University, New Haven, CT, USA
 
-PI: Dr. Damon Clark
 
 ## Education
 
