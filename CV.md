@@ -1,9 +1,16 @@
-
+---
+layout: page
+Title: ""
+---
 # Harsh Vashistha
 
 [Email](mailto:harsh.vashistha@yale.edu) 
 
 ---
+## Current position
+Postdoctoral associate in Neuroscience Sep 2021-present
+Department of MCDB, Yale University, New Haven, CT, USA
+PI: Dr. Damon Clark
 
 ## Education
 
