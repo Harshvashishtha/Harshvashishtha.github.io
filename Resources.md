@@ -32,7 +32,7 @@ title: "Drosophila Neuroscience Resources"
 
 1. **Fly Pushing: The Theory and Practice of Drosophila Genetics:**
    - Description: A comprehensive book covering various aspects of Drosophila genetics and experimental techniques.
-   - Link: [Fly Pushing Book](https://www.cshlpress.com/default.tpl?cart=15616305161135735&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=2414)
+   - Link: [Fly Pushing Book]([https://www.cshlpress.com/default.tpl?cart=15616305161135735&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=2414](https://www.cshlpress.com/default.tpl?action=full&cart=15616305161135735&--eqskudatarq=469&typ=ps&newtitle=Fly%20Pushing%3A%20The%20Theory%20and%20Practice%20of%20Drosophila%20Genetics%2C%20Second%20Edition)
 
 ## Conferences:
 
