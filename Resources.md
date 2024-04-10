@@ -18,11 +18,9 @@ title: "Drosophila Neuroscience Resources"
    - Description: A database of Drosophila genes, genomes, and genetic data, including tools for gene annotation and analysis.
    - Link: [FlyBase](https://flybase.org/)
 
-## Information:
-
-1. **Drosophila Brain Atlas:**
-   - Description: An atlas of the Drosophila brain, providing detailed anatomical and functional information about different brain regions.
-   - Link: [Drosophila Brain Atlas](https://www.janelia.org/project-team/flylight/overview-brain-atlas)
+1. **VirtualFlyBrain:**
+   - Description: An online platform providing comprehensive information about the Drosophila brain, including anatomy, gene expression, and neuron morphology.
+   - Link: [VirtualFlyBrain](https://www.virtualflybrain.org/)
 
 2. **Neuroscience Information Framework (NIF):**
    - Description: A resource for discovering neuroscience-relevant tools, data, and literature, including Drosophila-specific resources.
@@ -32,7 +30,7 @@ title: "Drosophila Neuroscience Resources"
 
 1. **Fly Pushing: The Theory and Practice of Drosophila Genetics:**
    - Description: A comprehensive book covering various aspects of Drosophila genetics and experimental techniques.
-   - Link: [Fly Pushing Book]([https://www.cshlpress.com/default.tpl?cart=15616305161135735&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=2414](https://www.cshlpress.com/default.tpl?action=full&cart=15616305161135735&--eqskudatarq=469&typ=ps&newtitle=Fly%20Pushing%3A%20The%20Theory%20and%20Practice%20of%20Drosophila%20Genetics%2C%20Second%20Edition)
+   - Link: [Fly Pushing Book](https://www.cshlpress.com/default.tpl?action=full&cart=15616305161135735&--eqskudatarq=469&typ=ps&newtitle=Fly%20Pushing%3A%20The%20Theory%20and%20Practice%20of%20Drosophila%20Genetics%2C%20Second%20Edition)
 
 ## Conferences:
 
