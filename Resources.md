@@ -2,8 +2,6 @@
 layout: page
 title: "Drosophila Neuroscience Resources"
 ---
-## Tools:
-
 1. **Janelia FlyLight Project:** Provides a collection of transgenic Drosophila lines with specific neuronal expression patterns for visualization and manipulation.
    - Link: [Janelia FlyLight Project](http://flweb.janelia.org/cgi-bin/flew.cgi)
 
