@@ -17,8 +17,8 @@ developmental biology, Yale University
 New Haven, CT, 06511
 
 **Social Media:**
-- LinkedIn: [Harsh Vashistha](https://www.linkedin.com/in/harsh-vashistha-ph-d-69226123/))
-- Twitter: [@harshvashishtha](https://twitter.com/harshvashishtha))
+- LinkedIn: [Harsh Vashistha](https://www.linkedin.com/in/harsh-vashistha-ph-d-69226123/)
+- Twitter: [@harshvashishtha](https://twitter.com/harshvashishtha)
 
 ---
 
