@@ -2,7 +2,9 @@
 layout: page
 title: "ABOUT ME"
 ---
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
+
+# ![Header Photo](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg) ABOUT ME
+
 <div style="font-size: 16px;">
     <div style="overflow:auto;">
         <img src="Picture.jpeg" alt="Alt text" style="float:left; margin:  20px 20px 20px 0px; width:190px; height:220px;"/>
@@ -13,3 +15,5 @@ title: "ABOUT ME"
     </div>
 </div>
 Email: harsh.vashistha@yale.edu
+
+![Footer Photo](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
