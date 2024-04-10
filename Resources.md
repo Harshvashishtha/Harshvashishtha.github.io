@@ -44,7 +44,3 @@ title: "Drosophila Neuroscience Resources"
    - Description: An annual conference focusing on computational and systems neuroscience, including topics relevant to Drosophila research.
    - Link: [COSYNE](https://www.cosyne.org/c/index.php?title=Main_Page)
 
-3. **APS - American Physiological Society:**
-   - Description: A professional organization dedicated to the advancement of physiology, with conferences featuring neuroscience research, including Drosophila studies.
-   - Link: [APS](https://www.physiology.org/) 
-
