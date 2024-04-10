@@ -11,5 +11,5 @@ title: "ABOUT ME"
         <p>Thank you for visiting my website. Please feel free to explore my work and reach out via email if you'd like to connect or discuss further.</p>
     </div>
 </div>
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+{% include embed.html url="https://twitter.com/harshvashishtha" %}
 Email: harsh.vashistha@yale.edu
