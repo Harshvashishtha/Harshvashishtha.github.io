@@ -13,4 +13,4 @@ title: "ABOUT ME"
 </div>
 Email: harsh.vashistha@yale.edu
 
-![Footer Photo](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
+<img src="https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg" alt="Footer Photo" style="width: auto; height: 300px; object-fit: cover;">
