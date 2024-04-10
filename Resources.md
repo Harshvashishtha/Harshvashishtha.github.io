@@ -2,8 +2,6 @@
 layout: page
 title: "Drosophila Neuroscience Resources"
 ---
-# Drosophila Neuroscience Resources
-
 ## Tools:
 
 1. **Janelia FlyLight Project:**
