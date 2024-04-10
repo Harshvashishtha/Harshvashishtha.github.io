@@ -17,12 +17,16 @@ title: "Drosophila Neuroscience Resources"
 3. **FlyBase:**
    - Description: A database of Drosophila genes, genomes, and genetic data, including tools for gene annotation and analysis.
    - Link: [FlyBase](https://flybase.org/)
+     
+4. **Bloomington Drosophila Stock Center (BDSC):**
+   - Description: Provides a wide range of Drosophila stocks for research, including mutants, transgenics, and balancers.
+   - Link: [BDSC](https://bdsc.indiana.edu/)
 
-1. **VirtualFlyBrain:**
+5. **VirtualFlyBrain:**
    - Description: An online platform providing comprehensive information about the Drosophila brain, including anatomy, gene expression, and neuron morphology.
    - Link: [VirtualFlyBrain](https://www.virtualflybrain.org/)
 
-2. **Neuroscience Information Framework (NIF):**
+6. **Neuroscience Information Framework (NIF):**
    - Description: A resource for discovering neuroscience-relevant tools, data, and literature, including Drosophila-specific resources.
    - Link: [Neuroscience Information Framework (NIF)](https://www.neuinfo.org/)
 
