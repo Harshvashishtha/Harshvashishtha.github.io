@@ -2,15 +2,6 @@
 layout: page
 title: "ABOUT ME"
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8DJHE6DYJX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8DJHE6DYJX');
-</script>
 <div style="font-size: 16px;">
     <div style="overflow:auto;">
         <img src="Picture.jpeg" alt="Alt text" style="float:left; margin:  20px 20px 20px 0px; width:190px; height:220px;"/>
