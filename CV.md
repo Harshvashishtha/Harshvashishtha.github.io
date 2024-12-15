@@ -2,7 +2,8 @@
 layout: page
 title: "HARSH VASHISTHA"
 ---
-[CV](https://github.com/Harshvashishtha/harshvashishtha.github.io/blob/master/CVHV.pdf)
+[Download CV](https://raw.githubusercontent.com/Harshvashishtha/harshvashishtha.github.io/master/CVHV.pdf)
+
 
 Postdoctoral associate in Neuroscience 
 
