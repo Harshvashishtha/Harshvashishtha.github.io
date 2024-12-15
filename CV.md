@@ -3,6 +3,7 @@ layout: page
 title: "HARSH VASHISTHA"
 ---
 [CV](https://github.com/Harshvashishtha/harshvashishtha.github.io/blob/master/CVHV.pdf)
+
 Postdoctoral associate in Neuroscience 
 
 Department of MCDB, Yale University, New Haven, CT, USA
